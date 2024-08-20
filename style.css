@@ -1,11 +1,13 @@
 body{
-    background-color: deeppink;
+    background-color: rgb(182, 0, 0);
+    text-align: center;
 }
 p{
     color: antiquewhite;
 }
 .pruchak {
     font-style: italic;
-    color: honeydew;
+    color: black;
+
  
 }
